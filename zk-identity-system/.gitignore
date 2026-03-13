@@ -22,5 +22,5 @@
 .env
 circom
 node_modules
-mpc-nodes
+
 circom
